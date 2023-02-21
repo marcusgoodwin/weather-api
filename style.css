@@ -1,7 +1,8 @@
 .tile {
+    font-size: 40px;
     background: rgb(43, 198, 126);
     color: rgb(56, 56, 56);
-    padding: 1.68 rem;
+    padding: 1.68rem;
     border-radius: 40px;
     width: 87%;
     max-width: 500px;
@@ -20,14 +21,14 @@ body {
     background-size: cover;
 }
 
-.weather {
-    padding : 1.75rem;
+.temp {
+    padding: 1.75rem;
     font-family: 'Teko', sans-serif;
     font-size: 48px;
 }
 
 .nav {
-    padding : 1.75rem;
+    padding: 1.75rem;
     font-family: 'Teko', sans-serif;
     display: flex;
     align-items: center;
@@ -35,7 +36,7 @@ body {
 }
 
 button {
-    margin: .35rem;
+    margin: 0.35rem;
     border-radius: 25px;
     outline: none;
     cursor: pointer;
