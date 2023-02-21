@@ -1,2 +1,17 @@
+Hello this is my Weather App!
 
-Screenshot 2023-02-20 183855.png
+# Usage
+
+This app is intended te be used to see  the weather, including the temperature, humidity, and wind conditions, when you search a location.
+
+# Description
+
+This app uses the Weather Api, JS, HTML, and CSS to quickly and effectively inform the user of the weather.
+
+# Deployment
+
+https://marcusgoodwin.github.io/weather-api/
+
+# Screenshots
+
+C:\Users\Marcus\repos\challenges\homework\weather-api\weather-api\Screenshot 2023-02-20 183855.png
